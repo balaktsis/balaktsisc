@@ -1,6 +1,6 @@
 # Hi there, I'm Chris! 👋
 
-I'm a senior BSc CS student with a keen interest in Data Science and Software Engineering. Here's a little bit about me:
+I'm a senior BSc CS student with a keen interest in Data Science and Software Engineering.
 
 ## 🔬 Scientific Interests
 
@@ -10,12 +10,6 @@ I'm a senior BSc CS student with a keen interest in Data Science and Software En
 
 ### Software Engineering
 - **System Architecture**: I am fascinated by the design and structure of software systems. My focus is on creating scalable, maintainable, and efficient architectures that stand the test of time.
-
-## 🛠 Technologies & Tools
-- **Programming Languages**: C/C++, Python, Java, SQL, TypeScript, Scala
-- **Frameworks & Libraries**: Flask, Svelte, Ionic
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Tools**: Docker, Jupyter
 
 ## 📊 GitHub Stats
 
