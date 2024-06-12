@@ -11,17 +11,6 @@ I'm a senior BSc CS student with a keen interest in Data Science and Software En
 ### Software Engineering
 - **System Architecture**: I am fascinated by the design and structure of software systems. My focus is on creating scalable, maintainable, and efficient architectures that stand the test of time.
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=balaktsisc&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balaktsisc&layout=compact&theme=radical)
-
-## 🌟 Current projects
-
-Here are some of the projects I've been working on:
-- [Aristomate](https://github.com/acmauth/student-companion): A student companion app for students of the Aristotle University of Thessaloniki
-- [SIESTA](https://github.com/balaktsisc/SequenceDetectionPreprocess): Building a functionality for SequenceDetectionPreprocess of SIESTA
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christos-balaktsis)
