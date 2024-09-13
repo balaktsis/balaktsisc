@@ -1,7 +1,5 @@
 # Hi there, I'm Chris! 👋
 
-I'm a senior BSc CS student with a keen interest in Data Science and Software Engineering.
-
 ## 🔬 Scientific Interests
 
 ### Data Science
